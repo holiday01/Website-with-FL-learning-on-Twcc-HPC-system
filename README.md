@@ -38,11 +38,10 @@ OTP可以從iService的網站取得，或者google Authenticator取得。在註�
 麻煩以終端機 (terminal) 啟動與連線伺服器。指令如下
 `poc/site-?/startup/start.sh`
 
-```
+
 使用台灣衫機器可以由兩個管道
 1. 由網站自動產生，須提供secret key
 2. 自行加入者，請聯絡 2203048@narlabs.org.tw
-```
 
 ###### 結果取得
 結果會有一組local model與global model，local model是由個人數據所訓練取得，global model是整合不同團隊模型的參數。
