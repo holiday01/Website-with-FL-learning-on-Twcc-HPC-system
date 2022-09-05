@@ -10,7 +10,7 @@
  
 ## 註冊畫面 (sing up)
 除了username之後，其他填入的資訊都登入台灣衫機器相同。
-![image](https://user-images.githubusercontent.com/20851973/183824012-78902603-452c-44e9-bd11-52ffac53adf7.png)
+![image](https://user-images.githubusercontent.com/20851973/188396092-98a26227-78ea-4beb-93b2-3ef8b7dc74ef.png)
 
 OTP可以從iService的網站取得，或者google Authenticator取得。在註冊後，會有系統發訊息通知註冊成功或重新操作。
 
